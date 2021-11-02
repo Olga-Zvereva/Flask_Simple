@@ -1,4 +1,5 @@
 #ставим эксперименты с Git
+#Эксперимент № 2
 from flask import Flask, render_template, request 
 
 app = Flask(__name__) #создаем объект Flask, передаем имя активного модуля
